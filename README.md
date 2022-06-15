@@ -1,4 +1,4 @@
-[![rahulsnair's github stats](https://github-readme-stats.vercel.app/api?username=rahulsnair&theme=algolia&show_icons=true)](https://github.com/rahulsnair/rahulsnair)
+[![Rahul S Nair's github stats](https://github-readme-stats.vercel.app/api?username=rahulsnair&theme=algolia&show_icons=true)](https://github.com/rahulsnair/rahulsnair)
 ![rahulsnair's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsnair&theme=algolia&langs_count=10&layout=compact)
 
 <!--
